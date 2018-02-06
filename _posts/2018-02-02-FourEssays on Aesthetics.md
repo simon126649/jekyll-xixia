@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "美是什么"
+tags: "美学"
 description: "李泽厚谈美"
 category: blog
 ---
