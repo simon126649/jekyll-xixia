@@ -12,11 +12,15 @@
 
 2，[Bootstrap][bootstrap-url]
 
-3，[Github][github-url]
+3，[Github-官网][github-url]
 
-4，[Jekyll Clean Theme][Jekyll-Clean-Theme-url]
+4，[Jekyll Clean Theme-Scotte的作品][Jekyll-Clean-Theme-url]
+
+5, [JEYLL主题官网][主题官网-url]
 
 [jekyll-url]: http://jekyllrb.com/
 [bootstrap-url]: http://getbootstrap.com/
 [github-url]: https://github.com/
 [Jekyll-Clean-Theme-url]: https://github.com/scotte/jekyll-clean
+[主题官网-url]：http://jekyllthemes.org/
+
